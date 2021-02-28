@@ -1,6 +1,6 @@
 // mengimpor Scanner ke program
 import java.util.Scanner;
-public class input_output
+public class Inputoutput
 {
   public static void main(String[]args)
   {
