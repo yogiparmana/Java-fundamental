@@ -1,5 +1,5 @@
 import java.util.Scanner; // jangan lupa import kelas scanner
-public class Switchcase{
+public class SwitchCase{
 
     public static void main(String []args){
         
