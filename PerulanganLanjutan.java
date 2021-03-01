@@ -1,4 +1,4 @@
-public class perulanganlanjutan{
+public class PerulanganLanjutan{
 
      public static void main(String []args){
        System.out.println("Pengulangan lanjutan x latihan");
